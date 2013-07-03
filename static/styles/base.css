@@ -1,0 +1,16 @@
+body{
+    background:grey;
+}
+
+h2{
+    font-size: large;
+    font-weight:bold;
+}
+
+.white{
+    background:white
+}
+
+p{
+    margin:10px 0px;
+}
